@@ -2,7 +2,7 @@
 
 <h2>O que foi desenvolvido? / What was developed?</h2>
 <p>Este foi um projeto do Módulo de Front-End no curso de Desenvolvimento de Software da Trybe.</p>
-<p>Neste projeto foi desenvolvida uuma versão simplificada, sem persistência no banco de dados, de uma loja online.</p>
+<p>Neste projeto foi desenvolvida uma versão simplificada, sem persistência no banco de dados, de uma loja online.</p>
 <p>Ao utilizar essa aplicação o usuário será capaz de:</p>
 <ul>
   <li>Buscar produtos por termos e categorias a partir da API do Mercado Livre;</li>
