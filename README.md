@@ -31,7 +31,7 @@
   <li>React Router</li>
   <li>Context API</li>
   <li>Fetch API - async/await</li>
-  <li>CSS Tailwind</li>
+  <li>Tailwind CSS</li>
 </ul>
 <br />
 <i><p>The following languages and tools were used to carry out this project:</p>
@@ -43,7 +43,7 @@
   <li>React Router</li>
   <li>Context API</li>
   <li>Fetch API - async/await</li>
-  <li>CSS Tailwind</li>
+  <li>Tailwind CSS</li>
 </ul></i>
 
 <h2>O que foi alterado do projeto original? / What was changed from the original project?</h2>
