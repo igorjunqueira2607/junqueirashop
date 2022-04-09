@@ -48,7 +48,7 @@
 
 <h2>O que foi alterado do projeto original? / What was changed from the original project?</h2>
 <p>Este projeto foi refeito após o término do módulo de Front-End, portanto, os conhecimento adiquiridos durante todo o módulo foram úteis para otimizar o tempo e o código do projeto.</p>
-<p>Desta forma, durante a refatoração e estilização do código utilizados novos métodos como o de componentes funcionais (substituindo os componentes de classe) e a biblioteca CSS Tailwind.</p> 
+<p>Desta forma, durante a refatoração e estilização do código utilizados novos métodos como o de componentes funcionais (substituindo os componentes de classe) e a biblioteca Tailwind CSS.</p> 
 <br />
 <i><p>This project was redone after the end of the Front-End module, so the knowledge acquired during the entire module was useful to optimize the project's time and code.</p>
 <p>In this way, during the refactoring and styling of the code, new methods such as the functional components (replacing the class components) and the Tailwind CSS library were used.</p></i>
